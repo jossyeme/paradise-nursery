@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Paradise Nursery
 
 Paradise Nursery is a React and Redux houseplant shopping application, built as the final project for the IBM course Developing Front-End Apps with React.
@@ -19,4 +18,3 @@ Paradise Nursery is a React and Redux houseplant shopping application, built as 
 ## Author
 
 Josiah Emesekiniovo
->>>>>>> 993e3bbf40f1059c5f30cdd7a43e35fd6e691575
